@@ -12,6 +12,7 @@ const metrics = [
     <div className="card-body">
         <h2 className="card-title mb-4">
             Métricas del modelo
+            Naomi nuevo cambio
         </h2>
         {metrics.map((metric, index) => (
     <div key={index} className="d-flex justify-content-between border-bottom py-2">
